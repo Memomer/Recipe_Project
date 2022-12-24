@@ -1,2 +1,2 @@
 # Recipe_Project
-The odin project recipe project
+The odin project, recipe project
